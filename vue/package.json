@@ -1,0 +1,36 @@
+{
+  "name": "vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
+    "@heroicons/vue": "^2.0.18",
+    "@tailwindcss/forms": "^0.5.3",
+    "@vue-hero-icons/outline": "^1.7.2",
+    "@vue-hero-icons/solid": "^1.7.2",
+    "aos": "^2.3.4",
+    "tw-elements": "^1.0.0-beta2",
+    "vue": "^3.2.47",
+    "vue-awesome-sidebar": "^1.2.3",
+    "vue-final-modal": "^4.4.2",
+    "vue-router": "^4.0.13",
+    "vue3-carousel": "^0.3.0",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "autoprefixer": "^10.4.14",
+    "eslint-plugin-vue": "^9.14.1",
+    "postcss": "^8.4.21",
+    "sass": "^1.63.3",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.2.0"
+  }
+}
